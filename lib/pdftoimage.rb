@@ -2,7 +2,7 @@ require 'pdftoimage/version'
 require 'pdftoimage/image'
 
 require 'tmpdir'
-require 'iconv'
+# require 'iconv'
 require 'shellwords'
 
 module PDFToImage
